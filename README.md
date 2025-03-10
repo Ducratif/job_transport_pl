@@ -20,7 +20,7 @@ Un script complet et optimisé pour gérer une société de transport PL sur Fiv
 ## 📺 **Installation**  
 
 ### 1️⃣ **Téléchargement et Installation**  
-- Télécharge le script depuis [GitHub](https://github.com/Ducratif/job_transport_pl/edit/main/README.md).  
+- Télécharge le script depuis [GitHub](https://github.com/Ducratif/job_transport_pl/releases/).  
 - Place le dossier **`job_transport_pl`** dans `resources/`.  
 - Ajoute ceci dans `server.cfg` :  
   ```ini
