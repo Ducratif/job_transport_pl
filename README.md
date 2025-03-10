@@ -155,6 +155,12 @@ local deliveryLocations = {
 
 ---
 
+## 📹 **Présentation en vidéo**
+
+[![Preview](https://img.youtube.com/vi/JzHQsUjx2Ag/0.jpg)](https://youtu.be/JzHQsUjx2Ag)
+
+---
+
 ## 💡 **Crédits**  
 
 👤 **Développé par :** [Ducratif](https://github.com/ducratif)  
