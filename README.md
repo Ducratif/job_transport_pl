@@ -83,6 +83,12 @@ local deliveryLocations = {
 }
 ```
 
+### 🔹 **Changement des paiements**
+- Aller dans le dossier `client/livraison.lua`.
+- Aller a la ligne `43` dans la section `deliveryLocations`.
+- En dessous vous aurez des ligne du genre `reward = 500`.
+- Modifier simplement **500** par l'argent payer.
+
 ---
 
 ## 🎮 **Utilisation**  
