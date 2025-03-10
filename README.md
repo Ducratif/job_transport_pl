@@ -8,8 +8,8 @@ Un script complet et optimisé pour gérer une société de transport PL sur Fiv
 ## ✨ **Fonctionnalités**  
 
 ✅ **Gestion des employés** : Embauche, grades et licenciement via un menu RageUI.  
-✅ **Spawn de camions selon le grade** : Véhicules configurables dans un fichier dédié. 
-✅ **Spawn de remorque:** La remorque est requit pour les livraisons.
+✅ **Spawn de camions selon le grade** : Véhicules configurables dans un fichier dédié.  
+✅ **Spawn de remorque:** La remorque est requit pour les livraisons.  
 ✅ **Système de livraison avancé** : Sélection de destinations aléatoires selon la catégorie.  
 ✅ **Validation de livraison via PNJ** : Vérification du camion et de la remorque avant validation.  
 ✅ **Livraison payée en liquide** : L'argent est ajouté directement au joueur après validation.  
